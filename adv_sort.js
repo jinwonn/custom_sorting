@@ -21,13 +21,3 @@ var sort = students.sort(function(a,b){
 
 console.log(students);
 
-
-// if (s)
-// var results = students.sort(function (a,b) {
-//   return a.age - b.age;
-// });
-
-// var namesort = students.sort(function(b) {
-//   return b.name});
-// console.log(results);
-// console.log(namesort);
